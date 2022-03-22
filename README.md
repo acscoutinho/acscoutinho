@@ -4,7 +4,7 @@
 
 
 **Hobbies** :
-- Praticar Escalada
+- Praticar Escalada e Fotografia 
 
  **Formação** :
 - Analise e Desenvolvimento de Sistemas
