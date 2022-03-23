@@ -7,9 +7,9 @@
 - Praticar Escalada e Fotografia 
 
  **Formação** :
-- Analise e Desenvolvimento de Sistemas
+- Análise e Desenvolvimento de Sistemas
 
-**Experiências Proficionais** :
+**Experiências Profissionais** :
 - GRUPO RCS - Suporte administrativo: Projeto Agência Nacional das Águas - ANA
 - Hepta Tecnologia e Informática - Técnico de Infraestrutura
 - Capgemini - Técnico de Infraestrutura Sr.
